@@ -1,6 +1,6 @@
 # YouTube Vapor API
 
-[Video link here](https://youtu.be/TyigCzPoLak)
+[Video link here](https://youtu.be/N63nkT2JFsI)
 
 ## Lesson 4
-Create the client iOS app
+Use the async/await pattern to make networks requests to update and delete data
